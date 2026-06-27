@@ -50,7 +50,7 @@ ATR_MULTIPLIER_DEFAULT    = 2.2
 SESSION_FILTERS_DEFAULT   = {"london": True, "ny": True, "asian": True}
 
 # ─── PROXY (Hiddify Mixed Port) ───────────────────────────────────────────────
-PROXY = "http://127.0.0.1:12334"
+PROXY = None  # disabled on cloud
 
 # ─── LOGGING (UTF-8 safe for Windows CMD) ────────────────────────────────────
 import sys
