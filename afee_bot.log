@@ -1,0 +1,422 @@
+2026-06-27 16:25:09,926 [INFO] AFEE TRADER BOT starting up...
+2026-06-27 16:25:11,184 [INFO] Starting scan...
+2026-06-27 16:25:11,322 [INFO] Running weekly adaptive strategy reweighting...
+2026-06-27 16:25:11,379 [INFO] Weekly reweighting done.
+2026-06-27 16:25:20,216 [INFO] Super admin registered: 802157083
+2026-06-27 16:25:28,402 [INFO] Quality ranking selected 100 symbols from pool of 250
+2026-06-27 16:25:28,402 [INFO] Scanning 100 symbols | workers=15
+2026-06-27 16:26:02,875 [INFO] AFEE TRADER BOT starting up...
+2026-06-27 16:26:04,251 [INFO] Starting scan...
+2026-06-27 16:26:04,829 [INFO] MIN_SIGNAL_SCORE set to 99 by admin 802157083
+2026-06-27 16:26:17,582 [INFO] MIN_SIGNAL_SCORE set to 99 by admin 802157083
+2026-06-27 16:26:20,599 [INFO] Quality ranking selected 100 symbols from pool of 250
+2026-06-27 16:26:20,599 [INFO] Scanning 100 symbols | workers=15
+2026-06-27 16:26:26,011 [INFO] LIVE FILTERED: CRVUSDT | Hammer Fib (4H) | ['low_score:83']
+2026-06-27 16:26:26,886 [INFO] LIVE FILTERED: BNSOLUSDT | Trigger Fibonacci | ['low_score:85']
+2026-06-27 16:26:26,979 [INFO] LIVE FILTERED: TAOUSDT | Hammer Fib (4H) | ['low_score:83']
+2026-06-27 16:26:27,298 [INFO] LIVE FILTERED: FILUSDT | Exhaustion | ['low_entry_volume']
+2026-06-27 16:26:28,943 [INFO] LIVE FILTERED: TRBUSDT | Exhaustion | ['low_score:83']
+2026-06-27 16:26:29,352 [INFO] LIVE FILTERED: CRVUSDT | Hammer Fib (1H) | ['low_score:83']
+2026-06-27 16:26:33,107 [INFO] LIVE FILTERED: BTCUSDT | Hammer Fib (4H) | ['low_score:98']
+2026-06-27 16:26:36,992 [INFO] LIVE FILTERED: BTCUSDT | Hammer Fib (1H) | ['low_score:98']
+2026-06-27 16:26:37,570 [INFO] LIVE FILTERED: VIRTUALUSDT | HB | ['low_score:78']
+2026-06-27 16:26:37,827 [INFO] LIVE FILTERED: SKYUSDT | Trigger Fibonacci | ['ema200_slope_conflict_trend']
+2026-06-27 16:26:38,995 [INFO] LIVE FILTERED: ICPUSDT | Exhaustion | ['low_entry_volume']
+2026-06-27 16:26:39,819 [INFO] LIVE FILTERED: NEARUSDT | Exhaustion | ['low_score:76']
+2026-06-27 16:26:42,970 [INFO] LIVE FILTERED: CFGUSDT | Trigger Fibonacci | ['ema200_slope_conflict_trend']
+2026-06-27 16:26:47,443 [INFO] LIVE FILTERED: PHAUSDT | Exhaustion | ['low_score:71']
+2026-06-27 16:26:50,099 [INFO] LIVE FILTERED: GIGGLEUSDT | Hammer Fib (4H) | ['low_score:98']
+2026-06-27 16:26:53,524 [INFO] LIVE FILTERED: GIGGLEUSDT | Hammer Fib (1H) | ['low_score:98']
+2026-06-27 16:26:56,521 [INFO] Scan done in 35.9s
+2026-06-27 16:26:56,522 [INFO] Signals sent: 0
+2026-06-27 16:26:56,522 [INFO] Sleeping 60s...
+2026-06-27 16:27:56,536 [INFO] Starting scan...
+2026-06-27 16:28:13,321 [INFO] Quality ranking selected 100 symbols from pool of 250
+2026-06-27 16:28:13,321 [INFO] Scanning 100 symbols | workers=15
+2026-06-27 16:28:19,895 [INFO] LIVE FILTERED: NIGHTUSDT | HB | ['low_score:93']
+2026-06-27 16:28:34,516 [INFO] LIVE FILTERED: ADAUSDT | Hammer Fib (4H) | ['low_score:83']
+2026-06-27 16:28:38,114 [INFO] LIVE FILTERED: ADAUSDT | Hammer Fib (1H) | ['low_score:83']
+2026-06-27 16:28:45,241 [INFO] LIVE FILTERED: ETHUSDT | HB | ['low_score:78']
+2026-06-27 16:28:48,843 [INFO] Scan done in 35.4s
+2026-06-27 16:28:48,843 [INFO] Signals sent: 0
+2026-06-27 16:28:48,843 [INFO] Sleeping 60s...
+2026-06-27 16:29:48,859 [INFO] Starting scan...
+2026-06-27 16:30:05,356 [INFO] Quality ranking selected 99 symbols from pool of 250
+2026-06-27 16:30:05,356 [INFO] Scanning 99 symbols | workers=15
+2026-06-27 16:30:12,918 [INFO] LIVE FILTERED: DOGEUSDT | Exhaustion | ['low_score:71']
+2026-06-27 16:30:16,279 [INFO] LIVE FILTERED: ASTERUSDT | Exhaustion | ['low_entry_volume']
+2026-06-27 16:30:16,590 [INFO] LIVE FILTERED: CAKEUSDT | Trigger Fibonacci | ['against_higher_tf_trend']
+2026-06-27 16:30:36,610 [INFO] LIVE FILTERED: HIGHUSDT | Hammer Fib (4H) | ['low_score:98']
+2026-06-27 16:30:37,420 [INFO] LIVE FILTERED: RLUSDUSDT | Exhaustion | ['low_score:76']
+2026-06-27 16:30:42,848 [INFO] LIVE FILTERED: HMSTRUSDT | RSI Divergence | ['adx_too_low:24.3']
+2026-06-27 16:30:45,642 [INFO] Scan done in 40.2s
+2026-06-27 16:30:45,642 [INFO] Signals sent: 0
+2026-06-27 16:30:45,642 [INFO] Sleeping 60s...
+2026-06-27 16:31:45,652 [INFO] Starting scan...
+2026-06-27 16:31:50,744 [INFO] BT job starting: 73f1e40e987b
+2026-06-27 16:31:50,888 [INFO] BT job 73f1e40e987b: 0 closed trades found in last 168h
+2026-06-27 16:31:50,909 [INFO] BT job done: 73f1e40e987b
+2026-06-27 16:32:02,597 [INFO] Quality ranking selected 100 symbols from pool of 250
+2026-06-27 16:32:02,598 [INFO] Scanning 100 symbols | workers=15
+2026-06-27 16:32:22,313 [INFO] LIVE FILTERED: GALAUSDT | Hammer Fib (4H) | ['low_score:98']
+2026-06-27 16:32:28,325 [INFO] LIVE FILTERED: 币安人生USDT | Exhaustion | ['low_score:76']
+2026-06-27 16:32:37,014 [INFO] LIVE FILTERED: DEXEUSDT | RSI Divergence | ['adx_too_low:0.0']
+2026-06-27 16:32:41,843 [INFO] LIVE FILTERED: BTGUSDT | Hammer Fib (4H) | ['low_score:98']
+2026-06-27 16:32:46,235 [INFO] LIVE FILTERED: BTGUSDT | Hammer Fib (1H) | ['low_score:98']
+2026-06-27 16:32:49,475 [INFO] Scan done in 46.8s
+2026-06-27 16:32:49,475 [INFO] Signals sent: 0
+2026-06-27 16:32:49,476 [INFO] Sleeping 60s...
+2026-06-27 16:33:46,636 [INFO] Channel auto-registered via command: AFEE (-1002532379243)
+2026-06-27 16:33:49,481 [INFO] Starting scan...
+2026-06-27 16:34:03,056 [INFO] Quality ranking selected 100 symbols from pool of 250
+2026-06-27 16:34:03,056 [INFO] Scanning 100 symbols | workers=15
+2026-06-27 16:34:09,724 [INFO] LIVE FILTERED: LINKUSDT | Exhaustion | ['adx_too_low:10.1']
+2026-06-27 16:34:14,153 [INFO] LIVE FILTERED: DOTUSDT | Hammer Fib (4H) | ['low_score:83']
+2026-06-27 16:34:30,301 [INFO] LIVE FILTERED: EURUSDT | HB | ['low_score:83']
+2026-06-27 16:34:32,472 [INFO] LIVE FILTERED: UNIUSDT | Hammer Fib (4H) | ['low_score:88']
+2026-06-27 16:34:34,114 [INFO] LIVE FILTERED: XUSDUSDT | RSI Divergence | ['low_score:86']
+2026-06-27 16:34:36,032 [INFO] Scan done in 33.0s
+2026-06-27 16:34:36,032 [INFO] Signals sent: 0
+2026-06-27 16:34:36,033 [INFO] Sleeping 60s...
+2026-06-27 16:35:34,188 [INFO] Added USD1USDT to blacklist
+2026-06-27 16:35:34,388 [INFO] Added RLUSDUSDT to blacklist
+2026-06-27 16:35:34,654 [INFO] Added PYRUSDT to blacklist
+2026-06-27 16:35:34,846 [INFO] Added SPCXBUSDT to blacklist
+2026-06-27 16:35:35,070 [INFO] Added UUSDT to blacklist
+2026-06-27 16:35:35,343 [INFO] Added RLUSDUSDT to blacklist
+2026-06-27 16:35:35,524 [INFO] Added EURUSDT to blacklist
+2026-06-27 16:35:35,759 [INFO] Added 币安人生USDT to blacklist
+2026-06-27 16:35:35,955 [INFO] Added 币安人生USDT to blacklist
+2026-06-27 16:35:36,042 [INFO] Starting scan...
+2026-06-27 16:35:36,151 [INFO] Added SPCXBUSDT to blacklist
+2026-06-27 16:35:50,449 [INFO] Quality ranking selected 100 symbols from pool of 250
+2026-06-27 16:35:50,449 [INFO] Scanning 95 symbols | workers=15
+2026-06-27 16:36:00,386 [INFO] LIVE FILTERED: SAHARAUSDT | Exhaustion | ['low_entry_volume']
+2026-06-27 16:36:05,712 [INFO] LIVE FILTERED: ETHUSDT | Exhaustion | ['low_entry_volume']
+2026-06-27 16:36:19,789 [INFO] LIVE FILTERED: USDEUSDT | HB | ['low_score:93']
+2026-06-27 16:36:26,841 [INFO] LIVE FILTERED: USDEUSDT | RSI Divergence | ['low_score:98']
+2026-06-27 16:36:26,842 [INFO] Scan done in 36.4s
+2026-06-27 16:36:26,842 [INFO] Signals sent: 0
+2026-06-27 16:36:26,842 [INFO] Sleeping 60s...
+2026-06-27 16:37:26,850 [INFO] Starting scan...
+2026-06-27 16:37:43,755 [INFO] Quality ranking selected 100 symbols from pool of 250
+2026-06-27 16:37:43,755 [INFO] Re-scanning 6 previously-filtered symbols: ['CRVUSDT', 'BNSOLUSDT', 'TAOUSDT', 'SKYUSDT', 'ICPUSDT']...
+2026-06-27 16:37:43,755 [INFO] Scanning 103 symbols | workers=15
+2026-06-27 16:37:48,874 [INFO] LIVE FILTERED: SHIBUSDT | Exhaustion | ['low_entry_volume']
+2026-06-27 16:38:03,352 [INFO] LIVE FILTERED: CHIPUSDT | Hammer Fib (4H) | ['low_score:88']
+2026-06-27 16:38:16,589 [INFO] LIVE FILTERED: USDEUSDT | Hammer Fib (4H) | ['low_score:98']
+2026-06-27 16:38:20,429 [INFO] Scan done in 36.7s
+2026-06-27 16:38:20,429 [INFO] Signals sent: 0
+2026-06-27 16:38:20,429 [INFO] Sleeping 60s...
+2026-06-27 16:39:20,434 [INFO] Starting scan...
+2026-06-27 16:39:40,290 [INFO] Quality ranking selected 100 symbols from pool of 250
+2026-06-27 16:39:40,291 [INFO] Scanning 95 symbols | workers=15
+2026-06-27 16:39:49,388 [INFO] LIVE FILTERED: VIRTUALUSDT | HB | ['low_score:83']
+2026-06-27 16:40:00,883 [INFO] LIVE FILTERED: CRCLBUSDT | Hammer Fib (4H) | ['low_score:98']
+2026-06-27 16:40:06,512 [INFO] LIVE FILTERED: CRCLBUSDT | Exhaustion | ['low_entry_volume']
+2026-06-27 16:40:17,978 [INFO] Scan done in 37.6s
+2026-06-27 16:40:17,979 [INFO] Signals sent: 0
+2026-06-27 16:40:17,979 [INFO] Sleeping 60s...
+2026-06-27 16:41:17,993 [INFO] Starting scan...
+2026-06-27 16:41:32,696 [INFO] Quality ranking selected 100 symbols from pool of 250
+2026-06-27 16:41:32,705 [INFO] Re-scanning 4 previously-filtered symbols: ['DOGEUSDT', 'ASTERUSDT', 'CAKEUSDT', 'HIGHUSDT']...
+2026-06-27 16:41:32,705 [INFO] Scanning 99 symbols | workers=15
+2026-06-27 16:41:39,274 [INFO] MIN_SIGNAL_SCORE set to 98 by admin 802157083
+2026-06-27 16:41:45,384 [INFO] LIVE FILTERED: NOMUSDT | Exhaustion | ['low_score:76']
+2026-06-27 16:41:49,100 [INFO] LIVE FILTERED: WBETHUSDT | Exhaustion | ['low_entry_volume']
+2026-06-27 16:41:52,127 [INFO] LIVE FILTERED: ONDOUSDT | Hammer Fib (4H) | ['low_score:83']
+2026-06-27 16:42:01,630 [INFO] LIVE FILTERED: TRXUSDT | Exhaustion | ['low_score:76']
+2026-06-27 16:42:10,609 [INFO] LIVE FILTERED: ORCAUSDT | Hammer Fib (4H) | ['low_score:88']
+2026-06-27 16:42:16,030 [INFO] Scan done in 43.2s
+2026-06-27 16:42:16,030 [INFO] SIGNAL: LUNCUSDT | Hammer Fib (4H) | SELL | score=98
+2026-06-27 16:42:23,967 [INFO] Signals sent: 1
+2026-06-27 16:42:23,967 [INFO] Sleeping 60s...
+2026-06-27 16:43:23,973 [INFO] Starting scan...
+2026-06-27 16:43:43,180 [INFO] Quality ranking selected 100 symbols from pool of 250
+2026-06-27 16:43:43,181 [INFO] Re-scanning 3 previously-filtered symbols: ['GALAUSDT', 'DEXEUSDT', 'BTGUSDT']...
+2026-06-27 16:43:43,181 [INFO] Scanning 99 symbols | workers=15
+2026-06-27 16:44:28,342 [INFO] Scan done in 45.1s
+2026-06-27 16:44:28,342 [INFO] Signals sent: 0
+2026-06-27 16:44:28,342 [INFO] Sleeping 60s...
+2026-06-27 16:45:28,359 [INFO] Starting scan...
+2026-06-27 16:45:31,038 [ERROR] Failed to get symbols: string indices must be integers, not 'str'
+2026-06-27 16:45:31,039 [INFO] Sleeping 60s...
+2026-06-27 16:46:31,044 [INFO] Starting scan...
+2026-06-27 16:46:54,366 [INFO] Quality ranking selected 100 symbols from pool of 250
+2026-06-27 16:46:54,367 [INFO] Re-scanning 5 previously-filtered symbols: ['ETHUSDT', 'LINKUSDT', 'DOTUSDT', 'XUSDUSDT', 'SAHARAUSDT']...
+2026-06-27 16:46:54,367 [INFO] Scanning 100 symbols | workers=15
+2026-06-27 16:47:00,205 [INFO] LIVE FILTERED: BCHUSDT | Exhaustion | ['low_entry_volume']
+2026-06-27 16:47:06,223 [INFO] LIVE FILTERED: POLUSDT | Exhaustion | ['low_score:76']
+2026-06-27 16:47:26,431 [INFO] LIVE FILTERED: FOGOUSDT | RSI Divergence | ['low_score:71']
+2026-06-27 16:47:32,308 [INFO] Scan done in 37.8s
+2026-06-27 16:47:32,308 [INFO] Signals sent: 0
+2026-06-27 16:47:32,308 [INFO] Sleeping 60s...
+2026-06-27 16:48:32,322 [INFO] Starting scan...
+2026-06-27 16:48:55,906 [INFO] Quality ranking selected 100 symbols from pool of 250
+2026-06-27 16:48:55,906 [INFO] Re-scanning 3 previously-filtered symbols: ['USDEUSDT', 'SHIBUSDT', 'CHIPUSDT']...
+2026-06-27 16:48:55,906 [INFO] Scanning 99 symbols | workers=15
+2026-06-27 16:49:04,349 [INFO] LIVE FILTERED: WLFIUSDT | Exhaustion | ['low_entry_volume']
+2026-06-27 16:49:21,249 [INFO] LIVE FILTERED: APTUSDT | Exhaustion | ['low_entry_volume']
+2026-06-27 16:49:37,163 [INFO] Scan done in 41.1s
+2026-06-27 16:49:37,163 [INFO] Signals sent: 0
+2026-06-27 16:49:37,163 [INFO] Sleeping 60s...
+2026-06-27 16:50:37,168 [INFO] Starting scan...
+2026-06-27 16:51:05,687 [INFO] Quality ranking selected 100 symbols from pool of 250
+2026-06-27 16:51:05,688 [INFO] Scanning 98 symbols | workers=15
+2026-06-27 16:51:17,974 [INFO] LIVE FILTERED: BTCUSDT | Exhaustion | ['low_entry_volume']
+2026-06-27 16:51:21,030 [INFO] LIVE FILTERED: WBTCUSDT | Exhaustion | ['low_entry_volume']
+2026-06-27 16:51:37,050 [INFO] LIVE FILTERED: 0GUSDT | HB | ['low_score:78']
+2026-06-27 16:51:44,250 [INFO] Scan done in 38.1s
+2026-06-27 16:51:44,251 [INFO] Signals sent: 0
+2026-06-27 16:51:44,251 [INFO] Sleeping 60s...
+2026-06-27 16:52:44,268 [INFO] Starting scan...
+2026-06-27 16:53:04,240 [INFO] Quality ranking selected 100 symbols from pool of 250
+2026-06-27 16:53:04,240 [INFO] Re-scanning 5 previously-filtered symbols: ['NOMUSDT', 'WBETHUSDT', 'ONDOUSDT', 'TRXUSDT', 'ORCAUSDT']...
+2026-06-27 16:53:04,240 [INFO] Scanning 104 symbols | workers=15
+2026-06-27 16:53:11,997 [INFO] LIVE FILTERED: POLUSDT | HB | ['low_score:83']
+2026-06-27 16:53:19,479 [INFO] LIVE FILTERED: VIRTUALUSDT | Exhaustion | ['low_entry_volume']
+2026-06-27 16:53:41,093 [INFO] Scan done in 36.7s
+2026-06-27 16:53:41,094 [INFO] Signals sent: 0
+2026-06-27 16:53:41,094 [INFO] Sleeping 60s...
+2026-06-27 16:54:41,097 [INFO] Starting scan...
+2026-06-27 16:54:59,454 [INFO] Quality ranking selected 100 symbols from pool of 250
+2026-06-27 16:54:59,454 [INFO] Scanning 98 symbols | workers=15
+2026-06-27 16:55:33,585 [INFO] Scan done in 34.0s
+2026-06-27 16:55:33,586 [INFO] SIGNAL: GENIUSUSDT | Hammer Fib (4H) | SELL | score=98
+2026-06-27 16:55:39,901 [INFO] Signals sent: 1
+2026-06-27 16:55:39,902 [INFO] Sleeping 60s...
+2026-06-27 16:56:39,905 [INFO] Starting scan...
+2026-06-27 16:56:58,021 [INFO] Quality ranking selected 100 symbols from pool of 250
+2026-06-27 16:56:58,022 [INFO] Scanning 98 symbols | workers=15
+2026-06-27 16:57:08,542 [INFO] LIVE FILTERED: GUNUSDT | Trigger Fibonacci | ['ema200_slope_conflict_trend']
+2026-06-27 16:57:30,566 [INFO] Scan done in 32.4s
+2026-06-27 16:57:30,567 [INFO] Signals sent: 0
+2026-06-27 16:57:30,567 [INFO] Sleeping 60s...
+2026-06-27 16:58:30,571 [INFO] Starting scan...
+2026-06-27 16:58:48,587 [INFO] Quality ranking selected 100 symbols from pool of 250
+2026-06-27 16:58:48,588 [INFO] Re-scanning 1 previously-filtered symbols: ['FOGOUSDT']...
+2026-06-27 16:58:48,588 [INFO] Scanning 99 symbols | workers=15
+2026-06-27 16:58:54,596 [INFO] LIVE FILTERED: SAHARAUSDT | HB | ['low_score:78']
+2026-06-27 16:59:21,120 [INFO] Scan done in 32.5s
+2026-06-27 16:59:21,120 [INFO] Signals sent: 0
+2026-06-27 16:59:21,121 [INFO] Sleeping 60s...
+2026-06-27 17:00:21,131 [INFO] Starting scan...
+2026-06-27 17:00:38,769 [INFO] Quality ranking selected 100 symbols from pool of 250
+2026-06-27 17:00:38,769 [INFO] Scanning 99 symbols | workers=15
+2026-06-27 17:00:45,819 [INFO] LIVE FILTERED: SANDUSDT | Exhaustion | ['low_score:71']
+2026-06-27 17:00:54,677 [INFO] LIVE FILTERED: CHZUSDT | Hammer Fib (4H) | ['low_score:83']
+2026-06-27 17:00:58,840 [INFO] LIVE FILTERED: CHZUSDT | Exhaustion | ['low_entry_volume']
+2026-06-27 17:01:10,856 [INFO] Scan done in 32.1s
+2026-06-27 17:01:10,856 [INFO] SIGNAL: NIGHTUSDT | Hammer Fib (4H) | BUY | score=98
+2026-06-27 17:01:16,190 [INFO] Signals sent: 1
+2026-06-27 17:01:16,190 [INFO] Sleeping 60s...
+2026-06-27 17:02:16,192 [INFO] Starting scan...
+2026-06-27 17:02:34,510 [INFO] Quality ranking selected 100 symbols from pool of 250
+2026-06-27 17:02:34,510 [INFO] Scanning 98 symbols | workers=15
+2026-06-27 17:02:40,894 [INFO] LIVE FILTERED: SAHARAUSDT | HB | ['low_score:93']
+2026-06-27 17:02:44,444 [INFO] LIVE FILTERED: ASTERUSDT | HB | ['low_score:93']
+2026-06-27 17:03:11,213 [INFO] Scan done in 36.6s
+2026-06-27 17:03:11,219 [INFO] Signals sent: 0
+2026-06-27 17:03:11,219 [INFO] Sleeping 60s...
+2026-06-27 17:04:11,227 [INFO] Starting scan...
+2026-06-27 17:04:30,564 [INFO] Quality ranking selected 100 symbols from pool of 250
+2026-06-27 17:04:30,565 [INFO] Scanning 98 symbols | workers=15
+2026-06-27 17:04:59,378 [INFO] Scan done in 28.7s
+2026-06-27 17:04:59,378 [INFO] Signals sent: 0
+2026-06-27 17:04:59,378 [INFO] Sleeping 60s...
+2026-06-27 17:05:59,386 [INFO] Starting scan...
+2026-06-27 17:06:19,353 [INFO] Quality ranking selected 100 symbols from pool of 250
+2026-06-27 17:06:19,353 [INFO] Scanning 98 symbols | workers=15
+2026-06-27 17:06:30,551 [INFO] LIVE FILTERED: SHIBUSDT | HB | ['low_score:85']
+2026-06-27 17:06:53,824 [INFO] Scan done in 34.4s
+2026-06-27 17:06:53,825 [INFO] Signals sent: 0
+2026-06-27 17:06:53,825 [INFO] Sleeping 60s...
+2026-06-27 17:07:53,842 [INFO] Starting scan...
+2026-06-27 17:08:12,732 [INFO] Quality ranking selected 100 symbols from pool of 250
+2026-06-27 17:08:12,733 [INFO] Scanning 98 symbols | workers=15
+2026-06-27 17:08:23,403 [INFO] LIVE FILTERED: WLFIUSDT | HB | ['low_score:75']
+2026-06-27 17:08:46,010 [INFO] Scan done in 33.3s
+2026-06-27 17:08:46,010 [INFO] SIGNAL: OPGUSDT | Hammer Fib (4H) | SELL | score=98
+2026-06-27 17:08:51,423 [INFO] Signals sent: 1
+2026-06-27 17:08:51,425 [INFO] Sleeping 60s...
+2026-06-27 17:09:51,428 [INFO] Starting scan...
+2026-06-27 17:10:11,173 [INFO] Quality ranking selected 100 symbols from pool of 250
+2026-06-27 17:10:11,173 [INFO] Scanning 98 symbols | workers=15
+2026-06-27 17:10:16,430 [INFO] LIVE FILTERED: XLMUSDT | Hammer Fib (4H) | ['low_score:83']
+2026-06-27 17:10:17,304 [INFO] LIVE FILTERED: TAOUSDT | HB | ['low_score:78']
+2026-06-27 17:10:25,359 [INFO] LIVE FILTERED: WBTCUSDT | HB | ['low_score:85']
+2026-06-27 17:10:34,479 [INFO] LIVE FILTERED: DOTUSDT | HB | ['low_score:78']
+2026-06-27 17:10:42,113 [INFO] Scan done in 30.9s
+2026-06-27 17:10:42,117 [INFO] Signals sent: 0
+2026-06-27 17:10:42,118 [INFO] Sleeping 60s...
+2026-06-27 17:11:42,122 [INFO] Starting scan...
+2026-06-27 17:12:00,368 [INFO] Quality ranking selected 100 symbols from pool of 250
+2026-06-27 17:12:00,369 [INFO] Scanning 98 symbols | workers=15
+2026-06-27 17:12:32,983 [INFO] Scan done in 32.5s
+2026-06-27 17:12:32,983 [INFO] Signals sent: 0
+2026-06-27 17:12:32,983 [INFO] Sleeping 60s...
+2026-06-27 17:13:32,986 [INFO] Starting scan...
+2026-06-27 17:13:52,167 [INFO] Quality ranking selected 100 symbols from pool of 250
+2026-06-27 17:13:52,167 [INFO] Scanning 99 symbols | workers=15
+2026-06-27 17:14:17,053 [INFO] LIVE FILTERED: APTUSDT | HB | ['low_score:78']
+2026-06-27 17:14:23,320 [INFO] Scan done in 31.0s
+2026-06-27 17:14:23,320 [INFO] Signals sent: 0
+2026-06-27 17:14:23,320 [INFO] Sleeping 60s...
+2026-06-27 17:15:23,332 [INFO] Starting scan...
+2026-06-27 17:15:42,196 [INFO] Quality ranking selected 100 symbols from pool of 250
+2026-06-27 17:15:42,196 [INFO] Scanning 98 symbols | workers=15
+2026-06-27 17:15:50,032 [INFO] LIVE FILTERED: SANDUSDT | Exhaustion | ['low_score:76']
+2026-06-27 17:16:15,697 [INFO] Scan done in 33.4s
+2026-06-27 17:16:15,698 [INFO] Signals sent: 0
+2026-06-27 17:16:15,698 [INFO] Sleeping 60s...
+2026-06-27 17:17:15,709 [INFO] Starting scan...
+2026-06-27 17:17:36,145 [INFO] Quality ranking selected 100 symbols from pool of 250
+2026-06-27 17:17:36,146 [INFO] Scanning 98 symbols | workers=15
+2026-06-27 17:18:09,001 [INFO] Scan done in 32.8s
+2026-06-27 17:18:09,001 [INFO] Signals sent: 0
+2026-06-27 17:18:09,001 [INFO] Sleeping 60s...
+2026-06-27 17:19:09,010 [INFO] Starting scan...
+2026-06-27 17:19:29,275 [INFO] Quality ranking selected 100 symbols from pool of 250
+2026-06-27 17:19:29,275 [INFO] Scanning 98 symbols | workers=15
+2026-06-27 17:19:35,441 [INFO] LIVE FILTERED: TAOUSDT | HB | ['low_score:93']
+2026-06-27 17:19:35,548 [INFO] LIVE FILTERED: DOGEUSDT | HB | ['low_score:83']
+2026-06-27 17:19:37,986 [INFO] LIVE FILTERED: ASTERUSDT | HB | ['low_score:83']
+2026-06-27 17:19:45,044 [INFO] LIVE FILTERED: BCHUSDT | HB | ['low_score:83']
+2026-06-27 17:19:54,078 [INFO] LIVE FILTERED: DOTUSDT | Exhaustion | ['low_score:71']
+2026-06-27 17:20:03,438 [INFO] Scan done in 34.1s
+2026-06-27 17:20:03,439 [INFO] Signals sent: 0
+2026-06-27 17:20:03,439 [INFO] Sleeping 60s...
+2026-06-27 17:21:03,445 [INFO] Starting scan...
+2026-06-27 17:21:23,608 [INFO] Quality ranking selected 100 symbols from pool of 250
+2026-06-27 17:21:23,609 [INFO] Scanning 98 symbols | workers=15
+2026-06-27 17:21:55,817 [INFO] Scan done in 32.1s
+2026-06-27 17:21:55,817 [INFO] Signals sent: 0
+2026-06-27 17:21:55,817 [INFO] Sleeping 60s...
+2026-06-27 17:22:55,819 [INFO] Starting scan...
+2026-06-27 17:23:14,248 [INFO] Quality ranking selected 100 symbols from pool of 250
+2026-06-27 17:23:14,248 [INFO] Scanning 98 symbols | workers=15
+2026-06-27 17:23:24,940 [INFO] LIVE FILTERED: WLFIUSDT | HB | ['low_score:85']
+2026-06-27 17:23:29,781 [INFO] LIVE FILTERED: TRBUSDT | HB | ['low_score:93']
+2026-06-27 17:23:30,574 [INFO] LIVE FILTERED: ICPUSDT | HB | ['low_score:83']
+2026-06-27 17:23:37,491 [INFO] LIVE FILTERED: CHRUSDT | Hammer Fib (4H) | ['low_score:88']
+2026-06-27 17:23:47,861 [INFO] Scan done in 33.5s
+2026-06-27 17:23:47,862 [INFO] Signals sent: 0
+2026-06-27 17:23:47,862 [INFO] Sleeping 60s...
+2026-06-27 17:24:47,866 [INFO] Starting scan...
+2026-06-27 17:25:06,357 [INFO] Quality ranking selected 100 symbols from pool of 250
+2026-06-27 17:25:06,358 [INFO] Scanning 98 symbols | workers=15
+2026-06-27 17:25:40,315 [INFO] Scan done in 34.0s
+2026-06-27 17:25:40,316 [INFO] Signals sent: 0
+2026-06-27 17:25:40,316 [INFO] Sleeping 60s...
+2026-06-27 17:26:40,327 [INFO] Starting scan...
+2026-06-27 17:26:58,565 [INFO] Quality ranking selected 100 symbols from pool of 250
+2026-06-27 17:26:58,565 [INFO] Scanning 98 symbols | workers=15
+2026-06-27 17:27:31,374 [INFO] Scan done in 32.8s
+2026-06-27 17:27:31,376 [INFO] Signals sent: 0
+2026-06-27 17:27:31,377 [INFO] Sleeping 60s...
+2026-06-27 17:28:31,382 [INFO] Starting scan...
+2026-06-27 17:28:49,653 [INFO] Quality ranking selected 100 symbols from pool of 250
+2026-06-27 17:28:49,653 [INFO] Scanning 98 symbols | workers=15
+2026-06-27 17:29:21,961 [INFO] Scan done in 32.3s
+2026-06-27 17:29:21,961 [INFO] Signals sent: 0
+2026-06-27 17:29:21,961 [INFO] Sleeping 60s...
+2026-06-27 17:30:21,978 [INFO] Starting scan...
+2026-06-27 17:30:40,954 [INFO] Quality ranking selected 100 symbols from pool of 250
+2026-06-27 17:30:40,955 [INFO] Scanning 98 symbols | workers=15
+2026-06-27 17:30:46,551 [INFO] LIVE FILTERED: CHZUSDT | Exhaustion | ['low_entry_volume']
+2026-06-27 17:30:49,125 [INFO] LIVE FILTERED: FILUSDT | Exhaustion | ['low_score:76']
+2026-06-27 17:30:55,471 [INFO] LIVE FILTERED: WBTCUSDT | HB | ['low_score:75']
+2026-06-27 17:30:57,928 [INFO] LIVE FILTERED: NEARUSDT | RSI Divergence | ['low_entry_volume']
+2026-06-27 17:31:08,844 [INFO] LIVE FILTERED: 0GUSDT | Exhaustion | ['adx_too_low:7.5']
+2026-06-27 17:31:10,260 [INFO] LIVE FILTERED: ETHUSDT | HB | ['low_score:83']
+2026-06-27 17:31:10,441 [INFO] LIVE FILTERED: GIGGLEUSDT | Exhaustion | ['low_score:76']
+2026-06-27 17:31:12,910 [INFO] Scan done in 31.9s
+2026-06-27 17:31:12,910 [INFO] Signals sent: 0
+2026-06-27 17:31:12,910 [INFO] Sleeping 60s...
+2026-06-27 17:32:12,914 [INFO] Starting scan...
+2026-06-27 17:32:32,225 [INFO] Quality ranking selected 100 symbols from pool of 250
+2026-06-27 17:32:32,225 [INFO] Scanning 98 symbols | workers=15
+2026-06-27 17:32:38,713 [INFO] LIVE FILTERED: SANDUSDT | HB | ['low_score:93']
+2026-06-27 17:32:46,059 [INFO] LIVE FILTERED: BTCUSDT | HB | ['low_score:75']
+2026-06-27 17:32:56,551 [INFO] LIVE FILTERED: DOTUSDT | HB | ['low_score:93']
+2026-06-27 17:33:06,396 [INFO] Scan done in 34.1s
+2026-06-27 17:33:06,396 [INFO] Signals sent: 0
+2026-06-27 17:33:06,397 [INFO] Sleeping 60s...
+2026-06-27 17:34:06,405 [INFO] Starting scan...
+2026-06-27 17:34:25,943 [INFO] Quality ranking selected 100 symbols from pool of 250
+2026-06-27 17:34:25,943 [INFO] Re-scanning 1 previously-filtered symbols: ['TRBUSDT']...
+2026-06-27 17:34:25,944 [INFO] Scanning 99 symbols | workers=15
+2026-06-27 17:34:59,741 [INFO] Scan done in 33.8s
+2026-06-27 17:34:59,742 [INFO] Signals sent: 0
+2026-06-27 17:34:59,742 [INFO] Sleeping 60s...
+2026-06-27 17:35:59,757 [INFO] Starting scan...
+2026-06-27 17:36:19,301 [INFO] Quality ranking selected 100 symbols from pool of 250
+2026-06-27 17:36:19,302 [INFO] Scanning 98 symbols | workers=15
+2026-06-27 17:36:33,996 [INFO] LIVE FILTERED: HBARUSDT | Exhaustion | ['low_entry_volume']
+2026-06-27 17:36:52,753 [INFO] Scan done in 33.4s
+2026-06-27 17:36:52,753 [INFO] Signals sent: 0
+2026-06-27 17:36:52,753 [INFO] Sleeping 60s...
+2026-06-27 17:37:52,761 [INFO] Starting scan...
+2026-06-27 17:38:11,348 [INFO] Quality ranking selected 100 symbols from pool of 250
+2026-06-27 17:38:11,349 [INFO] Scanning 98 symbols | workers=15
+2026-06-27 17:38:25,215 [INFO] LIVE FILTERED: SHIBUSDT | Exhaustion | ['low_score:78']
+2026-06-27 17:38:44,924 [INFO] LIVE FILTERED: LINKUSDT | Exhaustion | ['low_entry_volume']
+2026-06-27 17:38:45,306 [INFO] Scan done in 33.9s
+2026-06-27 17:38:45,306 [INFO] Signals sent: 0
+2026-06-27 17:38:45,306 [INFO] Sleeping 60s...
+2026-06-27 17:39:45,320 [INFO] Starting scan...
+2026-06-27 17:40:04,645 [INFO] Quality ranking selected 100 symbols from pool of 250
+2026-06-27 17:40:04,645 [INFO] Scanning 98 symbols | workers=15
+2026-06-27 17:40:26,502 [INFO] LIVE FILTERED: SAGAUSDT | Exhaustion | ['low_entry_volume']
+2026-06-27 17:40:36,409 [INFO] Scan done in 31.7s
+2026-06-27 17:40:36,409 [INFO] Signals sent: 0
+2026-06-27 17:40:36,409 [INFO] Sleeping 60s...
+2026-06-27 17:41:36,412 [INFO] Starting scan...
+2026-06-27 17:41:54,493 [INFO] Quality ranking selected 100 symbols from pool of 250
+2026-06-27 17:41:54,493 [INFO] Scanning 98 symbols | workers=15
+2026-06-27 17:42:01,426 [INFO] LIVE FILTERED: FILUSDT | HB | ['low_score:75']
+2026-06-27 17:42:05,313 [INFO] LIVE FILTERED: BONKUSDT | Trigger Fibonacci | ['ema200_slope_conflict_trend']
+2026-06-27 17:42:14,208 [INFO] LIVE FILTERED: SOMIUSDT | Trigger Fibonacci | ['ema200_slope_conflict_trend']
+2026-06-27 17:42:26,479 [INFO] Scan done in 32.0s
+2026-06-27 17:42:26,480 [INFO] Signals sent: 0
+2026-06-27 17:42:26,480 [INFO] Sleeping 60s...
+2026-06-27 17:43:26,496 [INFO] Starting scan...
+2026-06-27 17:43:45,665 [INFO] Quality ranking selected 100 symbols from pool of 250
+2026-06-27 17:43:45,666 [INFO] Scanning 98 symbols | workers=15
+2026-06-27 17:44:03,234 [INFO] LIVE FILTERED: ICPUSDT | HB | ['low_score:83']
+2026-06-27 17:44:13,139 [INFO] LIVE FILTERED: BNBUSDT | HB | ['low_score:85']
+2026-06-27 17:44:19,226 [INFO] Scan done in 33.6s
+2026-06-27 17:44:19,226 [INFO] Signals sent: 0
+2026-06-27 17:44:19,226 [INFO] Sleeping 60s...
+2026-06-27 17:45:19,229 [INFO] Starting scan...
+2026-06-27 17:45:37,575 [INFO] Quality ranking selected 100 symbols from pool of 250
+2026-06-27 17:45:37,575 [INFO] Scanning 98 symbols | workers=15
+2026-06-27 17:45:43,599 [INFO] LIVE FILTERED: SAHARAUSDT | Exhaustion | ['low_entry_volume']
+2026-06-27 17:45:59,724 [INFO] LIVE FILTERED: PEPEUSDT | HB | ['low_score:83']
+2026-06-27 17:46:01,099 [INFO] LIVE FILTERED: LTCUSDT | RSI Divergence | ['low_entry_volume']
+2026-06-27 17:46:05,058 [INFO] LIVE FILTERED: 0GUSDT | HB | ['low_score:83']
+2026-06-27 17:46:05,701 [INFO] LIVE FILTERED: ETHUSDT | RSI Divergence | ['low_entry_volume']
+2026-06-27 17:46:10,129 [INFO] Scan done in 32.5s
+2026-06-27 17:46:10,129 [INFO] Signals sent: 0
+2026-06-27 17:46:10,130 [INFO] Sleeping 60s...
+2026-06-27 17:47:10,134 [INFO] Starting scan...
+2026-06-27 17:47:29,391 [INFO] Quality ranking selected 100 symbols from pool of 250
+2026-06-27 17:47:29,391 [INFO] Scanning 98 symbols | workers=15
+2026-06-27 17:47:45,435 [INFO] LIVE FILTERED: RUNEUSDT | HB | ['low_score:85']
+2026-06-27 17:48:02,085 [INFO] Scan done in 32.7s
+2026-06-27 17:48:02,085 [INFO] Signals sent: 0
+2026-06-27 17:48:02,085 [INFO] Sleeping 60s...
+2026-06-27 17:49:02,100 [INFO] Starting scan...
+2026-06-27 17:49:21,392 [INFO] Quality ranking selected 100 symbols from pool of 250
+2026-06-27 17:49:21,392 [INFO] Scanning 98 symbols | workers=15
+2026-06-27 17:49:32,802 [INFO] LIVE FILTERED: WLFIUSDT | Exhaustion | ['adx_too_low:9.7']
+2026-06-27 17:49:41,276 [INFO] LIVE FILTERED: ADAUSDT | Exhaustion | ['adx_too_low:8.3']
+2026-06-27 17:49:54,767 [INFO] Scan done in 33.4s
+2026-06-27 17:49:54,768 [INFO] Signals sent: 0
+2026-06-27 17:49:54,768 [INFO] Sleeping 60s...
+2026-06-27 17:50:54,785 [INFO] Starting scan...
+2026-06-27 17:51:13,518 [INFO] Quality ranking selected 100 symbols from pool of 250
+2026-06-27 17:51:13,519 [INFO] Scanning 98 symbols | workers=15
+2026-06-27 17:51:44,662 [INFO] Scan done in 31.1s
+2026-06-27 17:51:44,663 [INFO] Signals sent: 0
+2026-06-27 17:51:44,663 [INFO] Sleeping 60s...

@@ -1,0 +1,58 @@
+{
+  "scanning": true,
+  "disabled_strategies": [
+    "Hammer Fib (1H)"
+  ],
+  "admins": {
+    "802157083": {
+      "name": "ɧԾԾʝԹԵ",
+      "perms": [
+        "scan_toggle",
+        "strategies",
+        "blacklist",
+        "logs",
+        "channels",
+        "admins"
+      ]
+    },
+    "7886725902": {
+      "name": "Ht",
+      "perms": [
+        "scan_toggle",
+        "strategies",
+        "logs",
+        "blacklist",
+        "admins",
+        "channels"
+      ]
+    }
+  },
+  "channels": [
+    {
+      "id": -1002532379243,
+      "title": "AFEE",
+      "active": true
+    }
+  ],
+  "pending_admin_add": null,
+  "pending_analysis": null,
+  "pending_replay": null,
+  "pending_backtest": null,
+  "backtest_enabled": true,
+  "last_report_date": null,
+  "volume_filter_enabled": true,
+  "entry_volume_filter_enabled": true,
+  "entry_volume_ma_period": 20,
+  "entry_volume_multiplier": 1.5,
+  "adaptive_ranking_enabled": true,
+  "last_reweight_date": "2026-06-27T13:01:03.583632+00:00",
+  "regime_engine_enabled": true,
+  "quality_ranking_enabled": true,
+  "session_filters": {
+    "london": true,
+    "ny": true,
+    "asian": true
+  },
+  "adx_threshold": 25.0,
+  "atr_multiplier": 2.2
+}
